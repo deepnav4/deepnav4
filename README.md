@@ -16,7 +16,7 @@
 
 ## 🌟 About Me  
 - 💻 **Full-Stack Developer** | MERN & Next.js Enthusiast  
-- 🎯 Currently polishing **DSA & System Design** for FAANG-level interviews  
+- 🎯 Currently polishing **DSA**
 - 🛠 Building **smart tools & UI libraries** that save developers time  
 - 🚀 Interested in **AI + Web Development** integrations  
 - 📚 Always learning new tech & exploring open-source contributions  
