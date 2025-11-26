@@ -9,7 +9,7 @@
   <a href="mailto:workwithdeepnav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/navdeep-singh-1554a8321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/navdeep67606112" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/deep.i3_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/i_nvdp_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🛠 Building **smart tools & UI libraries** that save developers time  
 - 🚀 Interested in **AI + Web Development** integrations  
 - 📚 Always learning new tech & exploring open-source contributions  
-- 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1rSlOnr1TDBOfY37Byl6AMOYq_Put-lW5/view)  
+- 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1eHJiTlWrVIQ0Bp_LMxIZODbDuqINp9F3/view?usp=sharing)  
 
 ---
 
