@@ -1,2 +1,2 @@
-19, Information Technology Student / Developer / Writer\n
-I build full-stack applications with Docker, Redis, and real-time collaboration
+19, IT student and developer.
+I build full-stack applications and write about technology.
